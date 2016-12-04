@@ -1,19 +1,19 @@
 # Portfolio
-My first Portfolio site 
+My first Portfolio site
+
 ## Installation
 1. Download the project.
 2. Run index.html
+
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-## Credits
-TODO: Write credits
+
 ## License
 MIT License
-
 Copyright (c) 2016 Bestin John
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
